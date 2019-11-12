@@ -1,0 +1,5 @@
+THE SHELVING FILTER TAKES IN THREE INPUTS THE USER HAS TO CHANGE IN THE .py FILE---------->
+1) INname: Input filename
+2) OUTname: Output filename
+3) Gain: Gain to be applied
+4) Cutoff: THe cutoff frequency
